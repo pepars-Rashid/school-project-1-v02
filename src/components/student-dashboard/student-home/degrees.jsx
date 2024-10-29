@@ -1,5 +1,4 @@
-import { StudentProgress } from "@/components/Circular-Progress/Student-progress";
-
+import StudentProgress from "@/components/Circular-Progress/Student-progress";
 
 export default function Degrees() {
   return (
