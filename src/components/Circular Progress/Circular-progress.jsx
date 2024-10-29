@@ -1,5 +1,5 @@
 
-export function AnimatedCircularProgressBar({
+export default function AnimatedCircularProgressBar({
   max = 100,
   min = 0,
   value = 0,

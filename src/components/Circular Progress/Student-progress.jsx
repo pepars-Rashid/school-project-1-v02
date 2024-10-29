@@ -5,7 +5,7 @@ import { AnimatedCircularProgressBar } from "./Circular-progress";
 
 
 
-export function StudentProgress() {
+export default function StudentProgress() {
   const [value, setValue] = useState(0);
 
   useEffect(() => {
