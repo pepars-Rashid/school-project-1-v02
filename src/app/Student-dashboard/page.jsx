@@ -1,4 +1,4 @@
-import StudentHome from '@/components/student dashboard/student home/student-home'
+import StudentHome from '@/components/student-dashboard/student-home/student-home'
 
 export default function Page() {
   return (
